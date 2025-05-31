@@ -112,12 +112,3 @@ Menu Principal
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
-
-Este documento fornece uma visão abrangente do sistema, incluindo:
-- Estruturas de dados fundamentais
-- Componentes principais
-- Instruções detalhadas de compilação
-- Exemplos de dados iniciais
-- Diagrama de fluxo do sistema
-
-O código fonte completo está disponível nos arquivos mencionados, com comentários detalhados para cada função e módulo.
