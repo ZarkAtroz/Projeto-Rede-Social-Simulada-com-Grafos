@@ -1,13 +1,5 @@
 # Projeto Integrado: Rede Social e Sistema de Rotas com Grafos
 
-## Documentação Completa
-
-### Informações do Projeto
-**Autor**: Gabriel Giacomoni  
-**Email**: sampaio.giacomo@gmail.com  
-**Data**: 31/05/2025  
-**Disciplina**: Estrutura de Dados  
-
 ## Visão Geral
 
 Este projeto integrado combina dois sistemas baseados em grafos:
